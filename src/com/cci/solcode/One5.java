@@ -19,7 +19,10 @@ public class One5 {
         for(int i = 0; i < str2.length(); i++){
             if(str2.charAt(i) != str1.charAt(j)){
                 if(distance ==0){
+                    // edit case
+                    if(str2.charAt(i + 1) != str1.charAt(j + 1))
                     j ++;
+
                     distance ++;
                 }
                 else
@@ -28,7 +31,7 @@ public class One5 {
             j++;
         }
         return true;
-        }
+    }
 
 
     public static void main(String[] args) {
