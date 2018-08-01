@@ -1,5 +1,4 @@
-package com.cci.solcode;
-import java.io.*;
+package com.cci.Ch1SolCode;
 import java.util.*;
 
 public class One2 {

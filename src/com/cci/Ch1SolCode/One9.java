@@ -1,4 +1,4 @@
-package com.cci.solcode;
+package com.cci.Ch1SolCode;
 
 import java.util.Scanner;
 
