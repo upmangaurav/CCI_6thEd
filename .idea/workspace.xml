@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96ea3a11-fa08-425f-84d9-94f81d0324ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/cci/Ch2SolCode/Two1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cci/Ch2SolCode/Two2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cci/Ch2SolCode/Two4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CCI_6thEd/com/cci/solcode/One1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CCI_6thEd/com/cci/solcode/One2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CCI_6thEd/com/cci/solcode/One3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CCI_6thEd/com/cci/solcode/One4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CCI_6thEd/com/cci/solcode/One5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CCI_6thEd/com/cci/solcode/One6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CCI_6thEd/com/cci/solcode/One9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cci/solcode/One1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cci/Ch1SolCode/One1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cci/solcode/One2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cci/Ch1SolCode/One2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cci/solcode/One3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cci/Ch1SolCode/One3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cci/solcode/One4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cci/Ch1SolCode/One4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cci/solcode/One5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cci/Ch1SolCode/One5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cci/solcode/One6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cci/Ch1SolCode/One6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cci/solcode/One9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cci/Ch1SolCode/One9.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,23 +24,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="10" />
+          <entry key="java" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="10" />
+          <entry key="JAVA" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="5" />
-          <entry key="java" value="4064" />
+          <entry key="java" value="4752" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4064" />
+          <entry key="JAVA" value="4752" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
@@ -93,8 +78,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/cci/Ch2SolCode/Two1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="74" selection-start-line="74" selection-end-line="82" />
+            <state relative-caret-position="915">
+              <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -102,11 +87,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/cci/Ch2SolCode/Two2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="37" column="25" lean-forward="true" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+            <state relative-caret-position="234">
+              <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/cci/Ch2SolCode/Two4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="46" column="30" lean-forward="true" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -143,6 +137,7 @@
         <option value="$PROJECT_DIR$/src/com/cci/Ch2SolCode/One2.java" />
         <option value="$PROJECT_DIR$/src/com/cci/Ch2SolCode/Two1.java" />
         <option value="$PROJECT_DIR$/src/com/cci/Ch2SolCode/Two2.java" />
+        <option value="$PROJECT_DIR$/src/com/cci/Ch2SolCode/Two4.java" />
       </list>
     </option>
   </component>
@@ -187,6 +182,14 @@
               <item name="cci" type="462c0819:PsiDirectoryNode" />
               <item name="Ch2SolCode" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CCI_6thEd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CCI_6thEd" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cci" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch2SolCode" type="462c0819:PsiDirectoryNode" />
+              <item name="Two1.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -205,14 +208,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Two2">
-    <configuration name="One5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cci.Ch1SolCode.One5" />
-      <module name="CCI_6thEd" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Two4">
     <configuration name="One6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cci.Ch1SolCode.One6" />
       <module name="CCI_6thEd" />
@@ -241,20 +237,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Two4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cci.Ch2SolCode.Two4" />
+      <module name="CCI_6thEd" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.One5" />
       <item itemvalue="Application.One6" />
       <item itemvalue="Application.One9" />
       <item itemvalue="Application.Two1" />
       <item itemvalue="Application.Two2" />
+      <item itemvalue="Application.Two4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Two4" />
         <item itemvalue="Application.Two2" />
         <item itemvalue="Application.Two1" />
         <item itemvalue="Application.One9" />
         <item itemvalue="Application.One6" />
-        <item itemvalue="Application.One5" />
       </list>
     </recent_temporary>
   </component>
@@ -281,7 +284,7 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.48842338" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2337376" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -364,20 +367,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cci/Ch2SolCode/Two2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cci/Ch2SolCode/Two1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="74" selection-start-line="74" selection-end-line="82" />
+        <state relative-caret-position="915">
+          <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cci/Ch2SolCode/Two2.java">
+    <entry file="file://$PROJECT_DIR$/src/com/cci/Ch2SolCode/Two4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="37" column="25" lean-forward="true" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+        <state relative-caret-position="450">
+          <caret line="46" column="30" lean-forward="true" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
         </state>
       </provider>
     </entry>
