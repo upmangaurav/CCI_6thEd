@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4d2d356-9bf5-46f1-b9e5-d712d2b5fc30" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CCI_6thEd/com/cci/Ch3SolCode/SetOfStacks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CCI_6thEd/com/cci/Ch3SolCode/Three3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cci/Ch3SolCode/Three3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CCI_6thEd/com/cci/Ch3SolCode/Three4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CCI_6thEd/com/cci/Ch3SolCode/qby2Stacks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cci/Ch3SolCode/Three4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCI_6thEd/com/cci/Ch3SolCode/StackNode.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CCI_6thEd/com/cci/Ch3SolCode/Three1$stackArr3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CCI_6thEd/com/cci/Ch3SolCode/Three1$stackArr3.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CCI_6thEd/com/cci/Ch3SolCode/Three1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CCI_6thEd/com/cci/Ch3SolCode/Three1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cci/Ch3SolCode/Three1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cci/Ch3SolCode/Three1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,35 +27,44 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="2" />
+          <entry key="java" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="2" />
+          <entry key="JAVA" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="943" />
+          <entry key="JAVA" value="1259" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="java" value="943" />
+          <entry key="java" value="1259" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/cci/Ch3SolCode/Three1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="280">
+              <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/cci/Ch3SolCode/Three4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -95,6 +99,7 @@
         <option value="$PROJECT_DIR$/src/com/cci/Ch3SolCode/Three2.java" />
         <option value="$PROJECT_DIR$/src/com/cci/Ch3SolCode/Three3.java" />
         <option value="$PROJECT_DIR$/src/com/cci/Ch3SolCode/Three1.java" />
+        <option value="$PROJECT_DIR$/src/com/cci/Ch3SolCode/Three4.java" />
       </list>
     </option>
   </component>
@@ -160,7 +165,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Three3">
+  <component name="RunManager" selected="Application.Three4">
     <configuration name="Three1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cci.Ch3SolCode.Three1" />
       <module name="CCI_6thEd" />
@@ -175,12 +180,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Three4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cci.Ch3SolCode.Three4" />
+      <module name="CCI_6thEd" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Three1" />
       <item itemvalue="Application.Three3" />
+      <item itemvalue="Application.Three4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Three4" />
         <item itemvalue="Application.Three3" />
         <item itemvalue="Application.Three1" />
       </list>
@@ -213,8 +227,8 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30169973" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3796034" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23796034" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3045326" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -261,6 +275,18 @@
           <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cci/Ch3SolCode/Three4.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cci/Ch3SolCode/Three4.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -277,8 +303,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cci/Ch3SolCode/Three1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="280">
+          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cci/Ch3SolCode/Three4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
         </state>
       </provider>
     </entry>
