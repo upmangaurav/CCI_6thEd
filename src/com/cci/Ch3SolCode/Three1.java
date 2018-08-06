@@ -2,59 +2,6 @@ package com.cci.Ch3SolCode;
 
 import java.util.EmptyStackException;
 
-class StackNode{
-    int num;
-    StackNode next;
-
-    public StackNode(int n){
-        num = n;
-        next = null;
-    }
-
-    public StackNode addtoLL(int num){
-        StackNode temp = this;
-        while(temp.next != null){
-            temp = temp.next;
-        }
-        StackNode newStackNode = new StackNode(num);
-        temp.next = newStackNode;
-        return newStackNode;
-    }
-
-    public StackNode addtoLL(StackNode StackNode, int num){
-        while(StackNode.next != null){
-            StackNode = StackNode.next;
-        }
-        StackNode newStackNode = new StackNode(num);
-        StackNode.next = newStackNode;
-        return newStackNode;
-    }
-
-    public StackNode deletefromLL(StackNode StackNode, int n){
-        StackNode temp = StackNode;
-        if(temp.num == n) {
-            return temp.next;
-        }
-
-        while(temp.next != null){
-            if(temp.next.num == n) {
-                temp.next = temp.next.next;
-                return StackNode;
-            }
-            temp = temp.next;
-        }
-        return StackNode;
-    }
-
-    public void printLL(StackNode head){
-        while (head != null){
-            System.out.println(head.num);
-            head = head.next;
-        }
-    }
-}
-
-
 public class Three1 {
     static class stackArr3 {
         int[] arr;
@@ -153,6 +100,7 @@ public class Three1 {
             catch (StackOverflowError ex){
                 System.out.println(ex);
             }
+            System.out.println("Stack after popping " + returnee + ":");
             printStackArr();
             return returnee;
         }

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96ea3a11-fa08-425f-84d9-94f81d0324ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/cci/Ch2SolCode/Two8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cci/Ch3SolCode/Three1.java" afterDir="false" />
+    <list default="true" id="a4d2d356-9bf5-46f1-b9e5-d712d2b5fc30" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CCI_6thEd/com/cci/Ch3SolCode/SetOfStacks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CCI_6thEd/com/cci/Ch3SolCode/Three3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cci/Ch3SolCode/Three3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCI_6thEd/com/cci/Ch3SolCode/Three1$stackArr3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CCI_6thEd/com/cci/Ch3SolCode/Three1$stackArr3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCI_6thEd/com/cci/Ch3SolCode/Three1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CCI_6thEd/com/cci/Ch3SolCode/Three1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cci/Ch3SolCode/Three1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cci/Ch3SolCode/Three1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,88 +23,55 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="571089481">
+    <session id="-1774684041">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="3" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="21" />
+          <entry key="java" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="21" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="6" />
-          <entry key="java" value="6980" />
+          <entry key="JAVA" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6980" />
-          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="JAVA" value="943" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="1" />
+          <entry key="java" value="943" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/cci/Ch2SolCode/Two4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="46" column="10" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/cci/Ch2SolCode/Two5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/cci/Ch2SolCode/Two8.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="53" selection-start-line="53" selection-end-line="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/cci/Ch2SolCode/Two1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/cci/Ch3SolCode/Three1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="180" lean-forward="true" selection-start-line="180" selection-end-line="180" />
+            <state relative-caret-position="60">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/cci/Ch3SolCode/Three3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1240">
+              <caret line="62" selection-start-line="62" selection-end-line="62" />
               <folding>
-                <element signature="class#StackNode#0" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -110,47 +86,25 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>package com\.cci\.solcode\;\nimport java\.io\.\*\;\nimport java\.util\.\*\;\n\npublic class One5 \{\n\n    private static boolean string_perms\(String str1\, String str2\)\{\n        \/\/Swapping mechanism \- consumes extra space\n\/\/        if\(str2\.length\(\) \&gt; str1\.length\(\)\)\{\n\/\/            String str \= str2\;\n\/\/            str2 \= str1\;\n\/\/            str1 \= str\;\n\/\/        \}\n\n        if\(str1\.length\(\) \- str2\.length\(\) \&gt; 1\) return false\;\n\n        int j \= 0\;\n        int distance \= 0\;\n        for\(int i \= 0\; i \&lt; str2\.length\(\)\; i\+\+\)\{\n            if\(str2\.charAt\(i\) \!\= str1\.charAt\(j\)\)\{\n                if\(distance \=\=0\)\{\n                    j \+\+\;\n                    distance \+\+\;\n                \}\n                else\n                    return false\;\n            \}\n            j\+\+\;\n        \}\n        return true\;\n        \}\n\n\n    public static void main\(String\[\] args\) \{\n        \/\/ write your code here\n        Scanner scanner \= new Scanner\(System\.in\)\;\n        String str1 \= scanner\.nextLine\(\)\;\n        String str2 \= scanner\.nextLine\(\)\;\n\n        if\(str1\.length\(\) \&gt;\= str2\.length\(\)\)\n            System\.out\.println\(string_perms\(str1\, str2\)\)\;\n        else\n            System\.out\.println\(string_perms\(str2\, str1\)\)\;\n    \}\n\}</find>
-      <find>Node</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>StackNode</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/cci/solcode/One2.java" />
-        <option value="$PROJECT_DIR$/src/com/cci/solcode/One3.java" />
-        <option value="$PROJECT_DIR$/src/com/cci/solcode/One4.java" />
-        <option value="$PROJECT_DIR$/src/com/cci/solcode/One5.java" />
-        <option value="$PROJECT_DIR$/src/com/cci/solcode/One6.java" />
-        <option value="$PROJECT_DIR$/src/com/cci/solcode/One7.java" />
-        <option value="$PROJECT_DIR$/src/com/cci/solcode/One8.java" />
-        <option value="$PROJECT_DIR$/src/com/cci/solcode/One9.java" />
-        <option value="$PROJECT_DIR$/src/com/cci/Ch1SolCode/One9.java" />
-        <option value="$PROJECT_DIR$/src/com/cci/Ch2SolCode/One2.java" />
-        <option value="$PROJECT_DIR$/src/com/cci/Ch2SolCode/Two1.java" />
-        <option value="$PROJECT_DIR$/src/com/cci/Ch2SolCode/Two2.java" />
-        <option value="$PROJECT_DIR$/src/com/cci/Ch2SolCode/Two4.java" />
-        <option value="$PROJECT_DIR$/src/com/cci/Ch2SolCode/Two5.java" />
-        <option value="$PROJECT_DIR$/src/com/cci/Ch2SolCode/Two8.java" />
+        <option value="$PROJECT_DIR$/src/com/cci/Ch3SolCode/Three2.java" />
+        <option value="$PROJECT_DIR$/src/com/cci/Ch3SolCode/Three3.java" />
         <option value="$PROJECT_DIR$/src/com/cci/Ch3SolCode/Three1.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="294" />
-    <option name="y" value="61" />
-    <option name="width" value="1390" />
-    <option name="height" value="1016" />
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="968" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
@@ -159,7 +113,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -183,21 +136,17 @@
               <item name="CCI_6thEd" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="cci" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch2SolCode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CCI_6thEd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CCI_6thEd" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cci" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch2SolCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Two1.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="Ch3SolCode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -211,7 +160,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Three1">
+  <component name="RunManager" selected="Application.Three3">
     <configuration name="Three1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cci.Ch3SolCode.Three1" />
       <module name="CCI_6thEd" />
@@ -219,48 +168,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Two2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cci.Ch2SolCode.Two2" />
-      <module name="CCI_6thEd" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Two4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cci.Ch2SolCode.Two4" />
-      <module name="CCI_6thEd" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Two5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cci.Ch2SolCode.Two5" />
-      <module name="CCI_6thEd" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Two8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cci.Ch2SolCode.Two8" />
+    <configuration name="Three3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cci.Ch3SolCode.Three3" />
       <module name="CCI_6thEd" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Two2" />
-      <item itemvalue="Application.Two4" />
-      <item itemvalue="Application.Two5" />
-      <item itemvalue="Application.Two8" />
       <item itemvalue="Application.Three1" />
+      <item itemvalue="Application.Three3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Three3" />
         <item itemvalue="Application.Three1" />
-        <item itemvalue="Application.Two8" />
-        <item itemvalue="Application.Two4" />
-        <item itemvalue="Application.Two5" />
-        <item itemvalue="Application.Two2" />
       </list>
     </recent_temporary>
   </component>
@@ -269,37 +191,38 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="96ea3a11-fa08-425f-84d9-94f81d0324ff" name="Default Changelist" comment="" />
-      <created>1532564161915</created>
+      <changelist id="a4d2d356-9bf5-46f1-b9e5-d712d2b5fc30" name="Default Changelist" comment="" />
+      <created>1533504453454</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1532564161915</updated>
+      <updated>1533504453454</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14994664" />
+      <window_info id="Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14362416" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3296582" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35942668" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.44101432" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30169973" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3796034" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3296582" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Maven Projects" order="4" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -309,170 +232,53 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/cci/Ch2SolCode/Two4.java</url>
-          <line>24</line>
+          <url>file://$PROJECT_DIR$/src/com/cci/Ch3SolCode/Three3.java</url>
+          <line>63</line>
           <properties />
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cci/Ch3SolCode/Three3.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cci/Ch3SolCode/Three3.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cci/Ch3SolCode/Three3.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cci/Ch3SolCode/Three3.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Object.java">
+    <entry file="file://$PROJECT_DIR$/src/com/cci/Ch3SolCode/Three3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="147" column="19" selection-start-line="147" selection-start-column="19" selection-end-line="147" selection-end-column="19" />
-          <folding>
-            <element signature="e#5748#5749#0" expanded="true" />
-            <element signature="e#5784#5785#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cci/Ch1SolCode/One4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cci/Ch1SolCode/One6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="42" selection-start-line="42" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cci/Ch1SolCode/One5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+        <state relative-caret-position="1240">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cci/Ch1SolCode/One9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cci/Ch1SolCode/One1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" selection-start-line="4" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cci/Ch1SolCode/One2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cci/Ch1SolCode/One3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cci/Ch3SolCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cci/Ch2SolCode/Two8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cci/Ch2SolCode/Two5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cci/Ch2SolCode/Two2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cci/Ch2SolCode/Two4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="46" column="10" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cci/Ch2SolCode/Two1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Throwable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="281" column="72" lean-forward="true" selection-start-line="281" selection-start-column="72" selection-end-line="281" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Error.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="69" column="10" lean-forward="true" selection-start-line="69" selection-start-column="10" selection-end-line="69" selection-end-column="10" />
-          <folding>
-            <element signature="e#1855#1856#0" expanded="true" />
-            <element signature="e#1885#1886#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/VirtualMachineError.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="52" column="8" lean-forward="true" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
-          <folding>
-            <element signature="e#921#922#0" expanded="true" />
-            <element signature="e#951#952#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/StackOverflowError.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="52" column="9" lean-forward="true" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
-          <folding>
-            <element signature="e#856#857#0" expanded="true" />
-            <element signature="e#880#881#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cci/Ch3SolCode/Three1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="180" lean-forward="true" selection-start-line="180" selection-end-line="180" />
-          <folding>
-            <element signature="class#StackNode#0" />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -481,7 +287,7 @@
     <states>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>1.7</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
